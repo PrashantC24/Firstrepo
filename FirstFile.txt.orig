@@ -1,0 +1,6 @@
+My First File
+<<<<<<< HEAD
+I had made changes in main
+=======
+I had made changes in Feature
+>>>>>>> featurebranch
